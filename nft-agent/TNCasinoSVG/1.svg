@@ -1,0 +1,51 @@
+<svg
+  viewBox="0 0 500 750"
+  style="background-color:black"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <text
+    class="text"
+    x="0"
+    y="5"
+    font-family="Verdana"
+    font-size="20"
+    fill="gold"
+  >
+    <tspan x="20" dy="1.2em">
+      TNCasino
+    </tspan>
+  </text>
+  <text
+    class="text"
+    x="0"
+    y="50"
+    font-family="Verdana"
+    font-size="20"
+    fill="gold"
+  >
+    <tspan x="20" dy="1.2em">
+      id = #1
+    </tspan>
+    <tspan x="20" dy="1.2em">
+      coin_value = 1
+    </tspan>
+    <tspan x="20" dy="1.2em">
+      free_spins_left = 25
+    </tspan>
+    <tspan x="20" dy="1.2em">
+      volatility = medium
+    </tspan>
+    <tspan x="20" dy="1.2em">
+      max_multiplier = 500
+    </tspan>
+    <tspan x="20" dy="1.2em">
+      max_allowed_bets = 5
+    </tspan>
+    <tspan x="20" dy="1.2em">
+      bonus_feature = low_risk
+    </tspan>
+    <tspan x="20" dy="1.2em">
+      allowed_additional_games = none
+    </tspan>
+  </text>
+</svg>

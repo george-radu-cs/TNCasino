@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@pinata/sdk": "^1.1.25",
+    "dotenv": "^16.0.0",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.2.31"
+  }
+}
